@@ -1,2 +1,2 @@
-# Murder-Mystery
-I wrote this simple story game using QBasic in 2004 for an intro to computer programming course in high school. It was one of the first programs I coded.
+# Murder Mystery Story Game
+I wrote this simple story game in 2004 using QBasic for an Intro to Computer Programming course in high school. It was one of the first programs I coded.
